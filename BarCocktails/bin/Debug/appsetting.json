@@ -1,0 +1,7 @@
+{
+  "Port": 2323,
+  "Address": "http://127.0.0.1",
+  "StaticFilePath": "..\\..\\static\\",
+  "EmailAdress": "klimserver@mail.ru",
+  "EmailPassword": "mspmxEGuvKNX8dbxCDMr"
+}
